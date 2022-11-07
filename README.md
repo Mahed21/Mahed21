@@ -1,6 +1,7 @@
+![I am a Web Developer](https://avatars.githubusercontent.com/u/85872364?s=400&u=76b5bb440caeda3cc14e417217b19af9b2ed4f7b&v=4)
 ### Hi there 👋, I am Mahed21
 #### I am a Web Developer
-![I am a Web Developer](https://avatars.githubusercontent.com/u/85872364?s=400&u=76b5bb440caeda3cc14e417217b19af9b2ed4f7b&v=4)
+
 
 I am a MERN Stack developer. I've worked on projects that used Reactj CSS nodejs MongoDB. I have Completed many frontend and fullstack project. I am a  programmer apart from web development I have solved almost 1000+ problem in differet site
 
